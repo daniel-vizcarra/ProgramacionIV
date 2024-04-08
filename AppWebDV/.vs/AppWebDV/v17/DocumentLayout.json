@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|c:\\users\\laboratorio\\source\\repos\\appwebdv\\appwebdv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\appwebdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5196167D-268B-4DFA-AB00-EFBFDCE9DF04}|AppWebDV\\AppWebDV.csproj|solutionrelative:appwebdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:30:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppWebDV\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppWebDV\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T15:41:24.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppWebDV\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\appsettings.Development.json",
+              "RelativeToolTip": "AppWebDV\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T15:41:12.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:41:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Error.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:58.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:52.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWebDV\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppWebDV\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:14.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABBbAIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T15:39:09.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Program.cs",
+              "RelativeDocumentMoniker": "AppWebDV\\Program.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\Program.cs",
+              "RelativeToolTip": "AppWebDV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:07.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADMkgEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T15:39:20.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAABWJgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T15:39:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAALEEAAAAAAAAAAAUwMQEAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T15:38:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T15:37:51.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppWebDV\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\AppWebDV\\AppWebDV\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppWebDV\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T15:37:49.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
