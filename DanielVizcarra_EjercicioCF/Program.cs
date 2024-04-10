@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using DanielVizcarra_EjercicioCF.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<DanielVizcarra_EjercicioCFContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DanielVizcarra_EjercicioCFContext") ?? throw new InvalidOperationException("Connection string 'DanielVizcarra_EjercicioCFContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

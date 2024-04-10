@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\laboratorio\\source\\repos\\DanielVizcarra_EjercicioCF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\source\\repos\\danielvizcarra_ejerciciocf\\controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:controllers\\burgerdvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|c:\\users\\laboratorio\\source\\repos\\danielvizcarra_ejerciciocf\\models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEE991-5BE1-41F8-88DA-89AB910C9524}|DanielVizcarra_EjercicioCF.csproj|solutionrelative:models\\burgerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BurgerDVsController.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BurgerDVsController.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\DanielVizcarra_EjercicioCF\\Controllers\\BurgerDVsController.cs",
+              "RelativeToolTip": "Controllers\\BurgerDVsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:54:48.399Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerDV.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\source\\repos\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "RelativeDocumentMoniker": "Models\\BurgerDV.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\source\\repos\\DanielVizcarra_EjercicioCF\\Models\\BurgerDV.cs",
+              "RelativeToolTip": "Models\\BurgerDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:51:20.406Z",
+              "EditorCaption": ""
             }
           ]
         }
